@@ -1,0 +1,4 @@
+01 N user1 basic                          #new user user1 category basic
+02 S
+03 U user4                                   #Error: Upgrade not possible
+04 S

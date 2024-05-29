@@ -1,0 +1,10 @@
+01 N user1 pro                      
+02 N user2 pro                      
+03 P user1 song1                         
+04 P user2 song1                         
+05 P user1 song1                         
+06 S                                         # Medias: basic 0, pro 1.5
+07 N user3 basic                     
+08 N user4 basic                     
+09 P user3 song2                         
+10 S                                          # Medias: basic 0.5, pro 1.5

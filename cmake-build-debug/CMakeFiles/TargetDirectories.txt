@@ -1,0 +1,4 @@
+C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/cmake-build-debug/CMakeFiles/test_lists.dir
+C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+********************
+01 N: user user1 category pro
+* New: user user1 category pro
+********************
+02 N: user user2 category pro
+* New: user user2 category pro
+********************
+03 P: user user1 song song1
+* Play: user user1 plays song song1 numplays 1
+********************
+04 P: user user2 song song1
+* Play: user user2 plays song song1 numplays 1
+********************
+05 P: user user1 song song1
+* Play: user user1 plays song song1 numplays 2
+********************
+06 S:
+User user1 category pro numplays 2
+User user2 category pro numplays 1
+Category  Users  Plays  Average
+Basic         0      0     0.00
+Pro           2      3     1.50
+********************
+07 N: user user3 category basic
+* New: user user3 category basic
+********************
+08 N: user user4 category basic
+* New: user user4 category basic
+********************
+09 P: user user3 song song2
+* Play: user user3 plays song song2 numplays 1
+********************
+10 S:
+User user1 category pro numplays 2
+User user2 category pro numplays 1
+User user3 category basic numplays 1
+User user4 category basic numplays 0
+Category  Users  Plays  Average
+Basic         2      1     0.50
+Pro           2      3     1.50

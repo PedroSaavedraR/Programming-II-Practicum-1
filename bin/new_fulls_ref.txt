@@ -1,0 +1,108 @@
+********************
+01 N: user user1 category basic
+* New: user user1 category basic
+********************
+02 N: user user2 category pro
+* New: user user2 category pro
+********************
+03 N: user user3 category basic
+* New: user user3 category basic
+********************
+04 N: user user4 category basic
+* New: user user4 category basic
+********************
+05 N: user user5 category pro
+* New: user user5 category pro
+********************
+06 N: user user6 category basic
+* New: user user6 category basic
+********************
+07 N: user user7 category basic
+* New: user user7 category basic
+********************
+08 N: user user8 category pro
+* New: user user8 category pro
+********************
+09 N: user user9 category basic
+* New: user user9 category basic
+********************
+10 N: user user10 category basic
+* New: user user10 category basic
+********************
+11 N: user user11 category basic
+* New: user user11 category basic
+********************
+12 N: user user12 category pro
+* New: user user12 category pro
+********************
+13 N: user user13 category basic
+* New: user user13 category basic
+********************
+14 N: user user14 category basic
+* New: user user14 category basic
+********************
+15 N: user user15 category pro
+* New: user user15 category pro
+********************
+16 N: user user16 category basic
+* New: user user16 category basic
+********************
+17 N: user user17 category basic
+* New: user user17 category basic
+********************
+18 N: user user18 category pro
+* New: user user18 category pro
+********************
+19 N: user user19 category basic
+* New: user user19 category basic
+********************
+20 N: user user20 category basic
+* New: user user20 category basic
+********************
+21 N: user user21 category basic
+* New: user user21 category basic
+********************
+22 N: user user22 category pro
+* New: user user22 category pro
+********************
+23 N: user user23 category basic
+* New: user user23 category basic
+********************
+24 N: user user24 category basic
+* New: user user24 category basic
+********************
+25 N: user user25 category pro
+* New: user user25 category pro
+********************
+26 N: user user26 category basic
++ Error: New not possible
+********************
+27 S:
+User user1 category basic numplays 0
+User user2 category pro numplays 0
+User user3 category basic numplays 0
+User user4 category basic numplays 0
+User user5 category pro numplays 0
+User user6 category basic numplays 0
+User user7 category basic numplays 0
+User user8 category pro numplays 0
+User user9 category basic numplays 0
+User user10 category basic numplays 0
+User user11 category basic numplays 0
+User user12 category pro numplays 0
+User user13 category basic numplays 0
+User user14 category basic numplays 0
+User user15 category pro numplays 0
+User user16 category basic numplays 0
+User user17 category basic numplays 0
+User user18 category pro numplays 0
+User user19 category basic numplays 0
+User user20 category basic numplays 0
+User user21 category basic numplays 0
+User user22 category pro numplays 0
+User user23 category basic numplays 0
+User user24 category basic numplays 0
+User user25 category pro numplays 0
+Category  Users  Plays  Average
+Basic        17      0     0.00
+Pro           8      0     0.00

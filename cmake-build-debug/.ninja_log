@@ -1,0 +1,31 @@
+# ninja log v5
+1	104	7344420647500190	build.ninja	e450e6b68d8f27f9
+107	189	7343741005167428	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+3	140	7324922314843114	CMakeFiles/main.dir/dynamic_list.c.obj	94a4edb060258ef8
+7	106	7343741004366568	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+264	478	7320436869327990	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/test_lists.exe	edb0d7b28b81a2f0
+2	82	7343741004110940	CMakeFiles/main.dir/static_list.c.obj	cdc31cd5c5c87319
+2	261	7320436867205518	CMakeFiles/test_lists.dir/test.c.obj	a0d34c7bc2336040
+1	102	7344436248929620	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+102	199	7344436249854748	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	91	7344440922269468	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+91	178	7344440923108907	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	100	7344443831185069	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+100	197	7344443832127491	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	94	7344444076486574	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+95	193	7344444077449524	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	93	7344454633861005	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+93	189	7344454634784698	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	90	7344454814312122	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+90	178	7344454815152202	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+1	85	7344455019095602	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+86	173	7344455019904481	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	88	7344458312654477	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+89	175	7344458313486634	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+1	86	7344460381743174	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+86	170	7344460382551833	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+4	186	7344483504534925	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+187	352	7344483506126178	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
+2	298	7386985008512555	CMakeFiles/main.dir/main.c.obj	c720f4f5a5e91d7f
+19	298	7386985008512555	CMakeFiles/main.dir/static_list.c.obj	cdc31cd5c5c87319
+299	593	7386985011113106	C:/Users/pedro/CLionProjects/Pro2 practicals/Practicum 1/bin/main.exe	99cbe3a30e0dac98
